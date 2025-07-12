@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Auto Car Hujjat</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <img src="https://i.ibb.co/https://ibb.co/1J2BgG9r" width="100%">
+  <p style="text-align: center;">Bu rasmga asoslangan rasmiy hujjatdir.</p>
+</body>
+</html>
